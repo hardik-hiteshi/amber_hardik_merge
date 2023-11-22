@@ -1,0 +1,48 @@
+{
+    "es-mycooktouch" : "ES-MYCOOKTOUCH",
+    "fr-mycooktouch" : "FR-MYCOOKTOUCH",
+    "en-mycooktouch" : "EN-MYCOOKTOUCH",
+    "it-mycooktouch" : "IT-MYCOOKTOUCH",
+    "ca-mycooktouch" : "CA-MYCOOKTOUCH",
+    "pt-mycooktouch" : "PT-MYCOOKTOUCH",
+    "nl-mycooktouch" : "NL-MYCOOKTOUCH",
+
+    "ru-mycooktouch" : "RU-MYCOOKTOUCH",
+    "cl-mycooktouch" : "CL-MYCOOKTOUCH",
+    "ma-mycooktouch" : "MA-MYCOOKTOUCH",
+
+    "ca-test": "CA-TEST",
+    "en-test": "EN-TEST",
+    "es-test": "ES-TEST",
+    "fr-test": "FR-TEST",
+    "it-test": "IT-TEST",
+    "nl-test": "NL-TEST",
+    "pt-test": "PT-TEST",
+    "de-test": "DE-TEST",
+    "fi-test": "FI-TEST",
+    "sv-test": "SV-TEST",
+    "no-test": "NO-TEST",
+    "dk-test": "DK-TEST",
+    "he-test": "HE-TEST",
+    "ko-test": "KO-TEST",
+
+    "fr-icookin" : "FR-ICOOKIN",
+    "it-icookin" : "IT-ICOOKIN",
+    "nl-icookin" : "NL-ICOOKIN",
+
+    "da-mycookwitt" : "DA-MYCOOKWITT",
+    "sv-mycookwitt" : "SV-MYCOOKWITT",
+    "no-mycookwitt" : "NO-MYCOOKWITT",
+    "en-mycookwitt" : "EN-MYCOOKWITT",
+    "fi-mycookwitt" : "FI-MYCOOKWITT",
+
+    "checkpoint" : "MACHINE",
+    "myserver": "ES-MYCOOKTOUCH",
+
+    "cmsmycook": "CMSMYCOOK",
+    "test-cmsmycook": "CMSMYCOOK",
+
+    "iot-test": "IOT-TEST",
+    "iot-taurus": "IOT-TAURUS",
+    "iot-incapto": "IOT-INCAPTO"
+}

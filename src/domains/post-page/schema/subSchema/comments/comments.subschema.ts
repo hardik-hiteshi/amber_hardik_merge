@@ -1,0 +1,28 @@
+import { Prop, Schema } from '@nestjs/mongoose';
+import { PageNestedComments } from './commentNested.subschema';
+
+@Schema({
+  shardKey: {
+    region: 1,
+  },
+  _id: false,
+})
+export class PageComments {
+  @Prop({ type: Date, required: true })
+  public date: Date;
+
+  @Prop({ required: true })
+  public displayName: string;
+
+  @Prop({ required: true })
+  public niceName: string;
+
+  @Prop({ required: true })
+  public rank: string;
+
+  @Prop({ required: true })
+  public text: string;
+
+  @Prop([PageNestedComments])
+  public comments: PageNestedComments[];
+}

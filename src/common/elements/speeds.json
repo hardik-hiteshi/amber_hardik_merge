@@ -1,0 +1,324 @@
+{
+    "" : {
+        "name": "No speed",
+        "group": "Speed"
+    },
+    "1": {
+        "name": "1",
+        "group": "Speed"
+    },
+    "1.5": {
+        "name": "1.5",
+        "group": "Speed"
+    },
+    "2": {
+        "name": "2",
+        "group": "Speed"
+    },
+    "2.5": {
+        "name": "2.5",
+        "group": "Speed"
+    },
+    "3": {
+        "name": "3",
+        "group": "Speed"
+    },
+    "3.5": {
+        "name": "3.5",
+        "group": "Speed"
+    },
+    "4": {
+        "name": "4",
+        "group": "Speed"
+    },
+    "4.5": {
+        "name": "4.5",
+        "group": "Speed"
+    },
+    "5": {
+        "name": "5",
+        "group": "Speed"
+    },
+    "5.5": {
+        "name": "5.5",
+        "group": "Speed"
+    },
+    "6": {
+        "name": "6",
+        "group": "Speed"
+    },
+    "6.5": {
+        "name": "6.5",
+        "group": "Speed"
+    },
+    "7": {
+        "name": "7",
+        "group": "Speed"
+    },
+    "7.5": {
+        "name": "7.5",
+        "group": "Speed"
+    },
+    "8": {
+        "name": "8",
+        "group": "Speed"
+    },
+    "8.5": {
+        "name": "8.5",
+        "group": "Speed"
+    },
+    "9": {
+        "name": "9",
+        "group": "Speed"
+    },
+    "9.5": {
+        "name": "9.5",
+        "group": "Speed"
+    },
+    "10": {
+        "name": "10",
+        "group": "Speed"
+    },
+    "S": {
+        "name": "Sauteed (S)",
+        "group": "Functions"
+    }, 
+    "S1": {
+        "name": "High Temperature (1)",
+        "group": "Functions"
+    },
+    "S2": {
+        "name": "High Temperature (2)",
+        "group": "Functions"
+    },
+    "A": {
+        "name": "Dough (A)",
+        "group": "Functions"
+    },
+    "1T": {
+        "name": "1 Turbo shot (1T)",
+        "group": "Turbo"
+    },
+    "2T": {
+        "name": "2 Turbo shots (2T)",
+        "group": "Turbo"
+    },
+    "3T": {
+        "name": "3 Turbo shots (3T)",
+        "group": "Turbo"
+    },
+    "4T": {
+        "name": "4 Turbo shots (4T)",
+        "group": "Turbo"
+    },
+    "5T": {
+        "name": "5 Turbo shots (5T)",
+        "group": "Turbo"
+    },
+    "6T": {
+        "name": "6 Turbo shots (6T)",
+        "group": "Turbo"
+    },
+    "7T": {
+        "name": "7 Turbo shots (7T)",
+        "group": "Turbo"
+    },
+    "8T": {
+        "name": "8 Turbo shots (8T)",
+        "group": "Turbo"
+    },
+    "9T": {
+        "name": "9 Turbo shots (9T)",
+        "group": "Turbo"
+    },
+
+
+    "1-2": {
+        "name": "1-2",
+        "group": "Progressive"
+    },
+    "1-3": {
+        "name": "1-3",
+        "group": "Progressive"
+    },
+    "1-4": {
+        "name": "1-4",
+        "group": "Progressive"
+    },
+    "1-5": {
+        "name": "1-5",
+        "group": "Progressive"
+    },
+    "1-6": {
+        "name": "1-6",
+        "group": "Progressive"
+    },
+    "1-7": {
+        "name": "1-7",
+        "group": "Progressive"
+    },
+    "1-8": {
+        "name": "1-8",
+        "group": "Progressive"
+    },
+    "1-9": {
+        "name": "1-9",
+        "group": "Progressive"
+    },
+    "1-10": {
+        "name": "1-10",
+        "group": "Progressive"
+    },
+
+    "2-3": {
+        "name": "2-3",
+        "group": "Progressive"
+    },
+    "2-4": {
+        "name": "2-4",
+        "group": "Progressive"
+    },
+    "2-5": {
+        "name": "2-5",
+        "group": "Progressive"
+    },
+    "2-6": {
+        "name": "2-6",
+        "group": "Progressive"
+    },
+    "2-7": {
+        "name": "2-7",
+        "group": "Progressive"
+    },
+    "2-8": {
+        "name": "2-8",
+        "group": "Progressive"
+    },
+    "2-9": {
+        "name": "2-9",
+        "group": "Progressive"
+    },
+    "2-10": {
+        "name": "2-10",
+        "group": "Progressive"
+    },
+
+    "3-4": {
+        "name": "3-4",
+        "group": "Progressive"
+    },
+    "3-5": {
+        "name": "3-5",
+        "group": "Progressive"
+    },
+    "3-6": {
+        "name": "3-6",
+        "group": "Progressive"
+    },
+    "3-7": {
+        "name": "3-7",
+        "group": "Progressive"
+    },
+    "3-8": {
+        "name": "3-8",
+        "group": "Progressive"
+    },
+    "3-9": {
+        "name": "3-9",
+        "group": "Progressive"
+    },
+    "3-10": {
+        "name": "3-10",
+        "group": "Progressive"
+    },
+
+    "4-5": {
+        "name": "4-5",
+        "group": "Progressive"
+    },
+    "4-6": {
+        "name": "4-6",
+        "group": "Progressive"
+    },
+    "4-7": {
+        "name": "4-7",
+        "group": "Progressive"
+    },
+    "4-8": {
+        "name": "4-8",
+        "group": "Progressive"
+    },
+    "4-9": {
+        "name": "4-9",
+        "group": "Progressive"
+    },
+    "4-10": {
+        "name": "4-10",
+        "group": "Progressive"
+    },
+
+    "5-6": {
+        "name": "5-6",
+        "group": "Progressive"
+    },
+    "5-7": {
+        "name": "5-7",
+        "group": "Progressive"
+    },
+    "5-8": {
+        "name": "5-8",
+        "group": "Progressive"
+    },
+    "5-9": {
+        "name": "5-9",
+        "group": "Progressive"
+    },
+    "5-10": {
+        "name": "5-10",
+        "group": "Progressive"
+    },
+
+    "6-7": {
+        "name": "6-7",
+        "group": "Progressive"
+    },
+    "6-8": {
+        "name": "6-8",
+        "group": "Progressive"
+    },
+    "6-9": {
+        "name": "6-9",
+        "group": "Progressive"
+    },
+    "6-10": {
+        "name": "6-10",
+        "group": "Progressive"
+    },
+
+    "7-8": {
+        "name": "7-8",
+        "group": "Progressive"
+    },
+    "7-9": {
+        "name": "7-9",
+        "group": "Progressive"
+    },
+    "7-10": {
+        "name": "7-10",
+        "group": "Progressive"
+    },
+
+    "8-9": {
+        "name": "8-9",
+        "group": "Progressive"
+    },
+    "8-10": {
+        "name": "8-10",
+        "group": "Progressive"
+    },
+
+    "9-10": {
+        "name": "9-10",
+        "group": "Progressive"
+    }
+}
