@@ -1,0 +1,26 @@
+{
+    "": {"name": "No Unit", "group": "Units"},
+    "u": {"name": "Units (u)", "group":"Units"},
+    "gr": {"name": "Grams (gr)", "group": "Units"},
+    "l": {"name": "Litres (l)", "group": "Units"},
+    "ml": {"name": "Mililitres (ml)", "group": "Units"},
+    "tbsp": {"name": "Table spoon (tbsp)", "group": "Units"},
+    "tsp": {"name": "Tea spoon (tsp)", "group": "Units"},
+    "cp": {"name": "Cup (cp)", "group": "Units"},
+    "mc": {"name": "Measure cup (mc)", "group": "Units"},
+    "coy": {"name": "Cup of yogurt (coy)", "group": "Units"},
+    "pch": {"name": "Pinch (pch)", "group": "Units"},
+    "drp": {"name": "Drops (drp)", "group": "Units"},
+    "scht": {"name": "Sachet (scht", "group": "Units"},
+    "pkt": {"name": "Packets (pkt)", "group":"Units"},
+
+    "gra": {"name": "Grains (gra)", "group": "Other Units"},
+    "clv": {"name": "Cloves (clv)", "group": "Other Units"},
+    "stk": {"name": "Sticks (stk)", "group": "Other Units"},
+    "bch": {"name": "Bunch(s) (bch)", "group": "Other Units"},
+    "brch": {"name": "Branches (brch)", "group": "Other Units"},
+    "lea": {"name": "Leaf(ves) (lea)", "group": "Other Units"},
+    "slc": {"name": "Slices (slc)", "group": "Other Units"},
+    "tur": {"name": "Tours (tur)", "group": "Other Units"}
+
+}

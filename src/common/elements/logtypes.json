@@ -1,0 +1,14 @@
+{
+  "adv/click": "Advertisement click",
+  "adv/view": "Advertisement view",
+  "user/login": "Logged in",
+  "user/badge": "Badge achieved",
+  "recipe/comment": "Commented on recipe",
+  "recipe/new": "Uploaded recipe",
+  "recipe/cooked": "Cooked recipe",
+  "recipe/favorite": "Recipe added to favorite",
+  "export/init": "Data export ininitalized",
+  "export/finish": "Data export finalized",
+  "user/legal": "user/legal",
+  "cmsuser/login": "Logged in"
+}
